@@ -33,3 +33,4 @@ This project is a Flutter-based application designed to help users search for th
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/Ranvijaykumar9708/Freight_Rate_Finder.git
+# Freight_Box
