@@ -4,15 +4,15 @@ import 'package:freight_website/screens/freight_page.dart';
 import 'package:freight_website/screens/profile.dart';
 import 'package:freight_website/screens/settings.dart';
 
-class MainLayout extends StatefulWidget {
+class Main_Layout extends StatefulWidget {
   final int initialIndex;
-  const MainLayout({super.key, this.initialIndex = 1});
+  const Main_Layout({super.key, this.initialIndex = 1});
 
   @override
-  State<MainLayout> createState() => _MainLayoutState();
+  State<Main_Layout> createState() => Main_LayoutState();
 }
 
-class _MainLayoutState extends State<MainLayout> {
+class Main_LayoutState extends State<Main_Layout> {
   late int _selectedIndex;
 
   @override

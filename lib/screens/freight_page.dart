@@ -503,7 +503,7 @@ class _FreightPageState extends State<FreightPage> {
                           ),
                           Expanded(
                             child: SizedBox(
-                              height: 150,
+                              height: 160,
                               child: Image.asset(
                                 'container_img.png',
                                 fit: BoxFit.contain,
