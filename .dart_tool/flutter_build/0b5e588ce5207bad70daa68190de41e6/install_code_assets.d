@@ -1,0 +1,1 @@
+ /Users/cittu/Downloads/Freight_Website-master/.dart_tool/flutter_build/0b5e588ce5207bad70daa68190de41e6/native_assets.json: 
