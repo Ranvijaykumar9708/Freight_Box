@@ -54,9 +54,9 @@ class Main_LayoutState extends State<Main_Layout> {
                 child: NavigationRail(
                   indicatorColor: const Color(0xffE6EBFF),
                   selectedLabelTextStyle: const TextStyle(
-                    color: Color(0xFF0139FF),
+                    color: Colors.blueAccent
                   ),
-                  selectedIconTheme: const IconThemeData(color: Color(0xFF0139FF)),
+                  selectedIconTheme: const IconThemeData(color: Colors.blueAccent),
                   backgroundColor: const Color(0xffF6F9FC),
                   selectedIndex: _selectedIndex,
                   onDestinationSelected: (int index) {
